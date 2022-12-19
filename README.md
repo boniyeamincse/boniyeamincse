@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Boni Yeamin</h1>
+
+<h1 align="center"> Hay connection !!, I'm Boni Yeamin</h1>
 <h3 align="center">I'm a passionate, accomplished, and experienced Cyber Security Engineer .</h3>
 
-<img aling="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2020/02/20160628_1516_FTI_Cyber_Security.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boniyeamincse&label=Profile%20views&color=0e75b6&style=flat" alt="boniyeamincse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse" alt="boniyeamincse" /></a> </p>
