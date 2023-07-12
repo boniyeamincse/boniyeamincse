@@ -1,7 +1,7 @@
 a href="default.asp">
   <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;border:0">
 </a>
-<h1 align="center"> Hay connection !!, I'm Boni Yeamin</h1>
+<h1 align="center">  I'm Boni Yeamin</h1>
 <h3 align="center">I'm a passionate, accomplished, and experienced Cyber Security Engineer .</h3>
 
 
