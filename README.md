@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/boniyeamin" target="blank"><img src="https://img.shields.io/twitter/follow/boniyeamin?logo=twitter&style=for-the-badge" alt="boniyeamin" /></a> </p>
 
-- I’m currently working in the Information security industry "Akij Group" The role is Officer. [1. Implement Security Onion Do Open Linux Distribution For Threat Hunting, Enterprise Security Monitoring, And Log Management 2.The Implementation of Server Virtualization Based Endorsement of a user-level Service and Banthwith management application in an Active Directory.](https://cspboniyeamin.blogspot.com/)
+- I’m currently working in the Information security industry "Akij Group" The role is Officer (Cybersecurity). [1. Implement Security Onion Do Open Linux Distribution For Threat Hunting, Enterprise Security Monitoring, And Log Management 2.The Implementation of Server Virtualization Based Endorsement of a user-level Service and Banthwith management application in an Active Directory.](https://cspboniyeamin.blogspot.com/)
 
 - 🌱 I’m currently learning **SOC(L1,L2) Splunk Enterprise Security, IBM QRadar and, LogRhythm**
 
