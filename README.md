@@ -33,7 +33,7 @@
 
  ## Experience
 
-### Officer (Cyber Security), IT Department
+🏢### Officer (Cyber Security), IT Department
 **Akij Group** · *Full-time*  
 *March 2023 - Present*  
 *Dhaka, Bangladesh* · *On-site*
@@ -48,7 +48,7 @@ As an Information Technology Officer (Cyber Security) at Akij Group, I hold a cr
 
 - 🔏 **Reporting and Analysis:** My role demands a high level of technical proficiency, continuous learning, and the ability to adapt to emerging cybersecurity challenges. By staying at the forefront of cybersecurity practices, I am dedicated to ensuring the confidentiality, integrity, and availability of the organization's critical assets, thereby contributing to a secure and resilient digital environment.
 
-### Cyber Security Analyst, Cyber Security Department
+🏢### Cyber Security Analyst, Cyber Security Department
 **Cybersecurity Audit & Resilient Enterprise - CARE** · *Full-time*  
 *Jan 2022 - Feb 2023 · 1 Yr 2 months* · *On-site*
 *Dhaka, Bangladesh* · *On-site*
@@ -70,7 +70,7 @@ As a Cybersecurity Analyst, my role encompassed a wide range of responsibilities
 
 As a Cybersecurity Analyst, I played a critical role in protecting the organization's assets, mitigating risks, and maintaining a robust security posture. Through proactive monitoring, testing, analysis, and collaboration, I contributed to the overall security resilience of the organization's systems and networks.
 
-### Part-time Lecturer
+🏫### Part-time Lecturer
 *University of Global Village · Contract*  
 *Apr 2022 - Dec 2022 · 9 months*  
 *Barisal District, Barisāl, Bangladesh*
