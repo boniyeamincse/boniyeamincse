@@ -48,6 +48,28 @@ As an Information Technology Officer (Cyber Security) at Akij Group, I hold a cr
 
 - 🔏 **Reporting and Analysis:** My role demands a high level of technical proficiency, continuous learning, and the ability to adapt to emerging cybersecurity challenges. By staying at the forefront of cybersecurity practices, I am dedicated to ensuring the confidentiality, integrity, and availability of the organization's critical assets, thereby contributing to a secure and resilient digital environment.
 
+### Cyber Security Analyst, Cyber Security Department
+**Cybersecurity Audit & Resilient Enterprise - CARE** · *Full-time*  
+*Aug 2022 - Feb 2023 · 7 months* · *On-site*
+*Dhaka, Bangladesh* · *On-site*
+
+As a Cybersecurity Analyst, my role encompassed a wide range of responsibilities focused on safeguarding computer networks and systems from threats and security breaches. I played a crucial role in maintaining a strong security posture and ensuring the protection of sensitive information. Here are the key details of my role:
+
+- 🔒 **Monitor computer networks and systems for threats and security breaches**
+- 🔒 **Install, alter, and update security software and firewalls**
+- 🔒 **Test systems for potential vulnerabilities & Conducting security assessments through vulnerability testing and risk analysis**
+- 🔒 **Performing both internal and external security audits**
+- 🔒 **Analyzing security breaches to identify the root cause**
+- 🔒 **Continuously updating the company’s incident response and disaster recovery plans**
+- 🔒 **Verifying the security of third-party vendors and collaborating with them to meet security requirements**
+- 🔒 **Research: Research upcoming trends in information technology and security, stay updated on potential threats and attacks, and come up with preventive strategies.**
+- 🔒 **Prepare reports on security incidents and changing responses**
+- 🔒 **Managing Team**
+- 🔒 **Writing a cybersecurity article**
+- 🔒 **Reporting & Documenting**
+
+As a Cybersecurity Analyst, I played a critical role in protecting the organization's assets, mitigating risks, and maintaining a robust security posture. Through proactive monitoring, testing, analysis, and collaboration, I contributed to the overall security resilience of the organization's systems and networks.
+
 ## Skills
 - DevOps
 - Fortinet
