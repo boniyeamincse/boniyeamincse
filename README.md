@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/boniyeamin" target="blank"><img src="https://img.shields.io/twitter/follow/boniyeamin?logo=twitter&style=for-the-badge" alt="boniyeamin" /></a> </p>
 
-- I’m currently working in the Information security industry "Akij Group" The role is Officer (Cybersecurity). [1. Implement Security Onion Do Open Linux Distribution For Threat Hunting, Enterprise Security Monitoring, And Log Management 2.The Implementation of Server Virtualization Based Endorsement of a user-level Service and Banthwith management application in an Active Directory.](https://cspboniyeamin.blogspot.com/)
+- I’m currently working in the Information security industry "Akij Group" The role is Officer (Cybersecurity). [1. Implement Security Onion Do Open Linux Distribution For Threat Hunting, Enterprise Security Monitoring, And Log Management 2. The Implementation of Server Virtualization Based Endorsement of a user-level Service and Banthwith management application in an Active Directory.](https://cspboniyeamin.blogspot.com/)
 
 - 🌱 I’m currently learning **SOC(L1,L2) Splunk Enterprise Security, IBM QRadar and, LogRhythm**
 
@@ -23,7 +23,7 @@
 
 - 📝 I regularly write articles on [https://boniyeamincse.blogspot.com/](https://boniyeamincse.blogspot.com/)
 
-- 💬 Ask me about **SOC tools Wazuh, Security Onion, Splunk, IBM radar,and cyber security Domains**
+- 💬 Ask me about **SOC tools Wazuh, Security Onion, Splunk, IBM radar, and cyber security Domains**
 
 - 📫 How to reach me **boniyeamin.cse@gmail.com**
 
@@ -35,7 +35,7 @@
 <p align="left">
 <a href="https://dev.to/dev.to/boniyeamincse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/boniyeamincse" height="30" width="40" /></a>
 <a href="https://twitter.com/boniyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boniyeamin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/boniyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniyeamin" height="30" width="40" /></a>
+<a href="https:/www.linkedin.com/in/boniyeamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boniyeamin" height="30" width="40" /></a>
 <a href="https://kaggle.com/boniyeamincse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="boniyeamincse" height="30" width="40" /></a>
 <a href="https://fb.com/boniyeaminlaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boniyeaminlaju" height="30" width="40" /></a>
 <a href="https://instagram.com/boniyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boniyeamin" height="30" width="40" /></a>
