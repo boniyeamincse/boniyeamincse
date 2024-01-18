@@ -99,9 +99,6 @@ As a Junior SOC Analyst at EaglesIdea Ltd (Jun 2021 - May 2022), your role was c
 In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining the organization's security posture. Your expertise in threat analysis, incident response, vulnerability management, and documentation ensured that potential risks were promptly identified and mitigated, safeguarding critical assets and maintaining a secure environment.
 
 
-
-
-## Education
 ## Education
 ## Licenses & certifications
 ## Projects
@@ -123,8 +120,10 @@ In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining th
 - Security Information and Event Management (SIEM)
 - Wazuh
 
-  ## Honors & awards
+  ## Honors & awards 
   ## Languages
+  - English (Full professional proficiency)
+  - Bangla ( Native or bilingual proficiency )
   ## Interests
 
 
