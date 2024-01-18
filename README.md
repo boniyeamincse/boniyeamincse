@@ -101,9 +101,6 @@ In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining th
 
 ## Education
 ## Licenses & certifications
-## Projects
-## Volunteering
-## Licenses & certifications
 1. 🏅 **Fundamentals of Red Hat Enterprise Linux (Red Hat)**
 2. 🏅 **Docker Training Course for the Absolute Beginner (KodeKloud)**
 3. 🏅 **Incident Response: Detection and Analysis (Pluralsight)**
@@ -113,7 +110,9 @@ In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining th
 7. 🏅 **Creating a World Class Security Operations Center (SOC) (Cybery Limited)**
 8. 🏅 **Splunk 7.x Fundamentals Part 1 (Splunk)**
 9. 🏅 **Elastic Stack (Great Learning)**
-
+## Projects
+## Volunteering
+## Licenses & certifications
 ## Licenses & certifications
 ## Skills
 - DevOps
