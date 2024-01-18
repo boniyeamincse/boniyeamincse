@@ -70,6 +70,25 @@ As a Cybersecurity Analyst, my role encompassed a wide range of responsibilities
 
 As a Cybersecurity Analyst, I played a critical role in protecting the organization's assets, mitigating risks, and maintaining a robust security posture. Through proactive monitoring, testing, analysis, and collaboration, I contributed to the overall security resilience of the organization's systems and networks.
 
+### Part-time Lecturer
+*University of Global Village · Contract*  
+*Apr 2022 - Dec 2022 · 9 months*  
+*Barisal District, Barisāl, Bangladesh*
+
+As a Part-time Lecturer at the University of Global Village, my role focused on delivering comprehensive and engaging courses on Ethical Hacking and Cybersecurity. I was responsible for providing students with the knowledge and skills necessary to understand and navigate the dynamic field of cybersecurity. Here are the details of my role and responsibilities:
+
+- 🎓 **Lectures and Presentations:** I conducted engaging lectures and presentations on various topics related to Ethical Hacking and Cybersecurity. I utilized effective teaching methods, such as interactive discussions, demonstrations, and multimedia presentations, to ensure students' active participation and understanding.
+
+- 🎓 **Classroom Instruction:** I delivered comprehensive classroom instruction, covering essential concepts, theories, and practical skills in Ethical Hacking and Cybersecurity. I facilitated discussions, answered questions, and provided guidance to students to deepen their understanding and encourage critical thinking.
+
+- 🎓 **Practical Labs and Exercises:** To reinforce theoretical knowledge, I organized practical labs and exercises where students could apply their learning to hands-on scenarios. I guided students through simulated hacking exercises, vulnerability assessments, and security analysis, fostering their technical skills and problem-solving abilities.
+
+- 🎓 **Assessments and Grading:** I designed and administered assessments, such as quizzes, assignments, and examinations, to evaluate students' comprehension and progress. I provided constructive feedback and timely grading to support their learning journey and track their performance.
+
+- 🎓 **Collaboration and Professional Development:**
+
+As a Part-time Lecturer, my goal was to equip students with the necessary knowledge, skills, and ethical mindset to thrive in the field of cybersecurity. I fostered a passion for continuous learning and encouraged students to make positive contributions to the ever-changing landscape of information security.
+
 ## Skills
 - DevOps
 - Fortinet
