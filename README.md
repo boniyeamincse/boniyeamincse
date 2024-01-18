@@ -101,6 +101,10 @@ In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining th
 
 
 ## Education
+# City University (BD)
+- **Degree:** BSc in Computer Science and Engineering
+- **Duration:** 2017 - 2022
+
 ## Licenses & certifications
 1. 🏅 **Fundamentals of Red Hat Enterprise Linux (Red Hat)**
 2. 🏅 **Docker Training Course for the Absolute Beginner (KodeKloud)**
