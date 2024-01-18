@@ -89,6 +89,20 @@ As a Part-time Lecturer at the University of Global Village, my role focused on 
 
 As a Part-time Lecturer, my goal was to equip students with the necessary knowledge, skills, and ethical mindset to thrive in the field of cybersecurity. I fostered a passion for continuous learning and encouraged students to make positive contributions to the ever-changing landscape of information security.
 
+# Junior SOC Analyst
+*EaglesIdea Ltd · Jun 2021 - May 2022*
+
+As a Junior SOC Analyst at EaglesIdea Ltd (Jun 2021 - May 2022), your role was crucial in monitoring, analyzing, and responding to security events and incidents within the organization's network and systems. You were responsible for maintaining a robust security posture and ensuring the protection of critical assets from potential cyber threats. Here are the typical responsibilities and key contributions expected from a SOC Analyst:
+
+## Roles and Responsibilities:
+- 🔒 **Building an open-source SOC (Wazuh)**
+- 🔒 **Analysis and Response to Unknown Vulnerabilities**
+- 🔒 **Investigating, Documenting, and Reporting**
+- 🔒 **Reviewing, Prioritizing, and Investigating SIEM Alerts**
+
+In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining the organization's security posture. Your expertise in threat analysis, incident response, vulnerability management, and documentation ensured that potential risks were promptly identified and mitigated, safeguarding critical assets and maintaining a secure environment.
+
+
 ## Skills
 - DevOps
 - Fortinet
