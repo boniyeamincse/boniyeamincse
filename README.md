@@ -50,7 +50,7 @@ As an Information Technology Officer (Cyber Security) at Akij Group, I hold a cr
 
 ### Cyber Security Analyst, Cyber Security Department
 **Cybersecurity Audit & Resilient Enterprise - CARE** · *Full-time*  
-*Aug 2022 - Feb 2023 · 7 months* · *On-site*
+*Jan 2022 - Feb 2023 · 1 Yr 2 months* · *On-site*
 *Dhaka, Bangladesh* · *On-site*
 
 As a Cybersecurity Analyst, my role encompassed a wide range of responsibilities focused on safeguarding computer networks and systems from threats and security breaches. I played a crucial role in maintaining a strong security posture and ensuring the protection of sensitive information. Here are the key details of my role:
