@@ -17,19 +17,19 @@
 
 - 👯 I’m looking to collaborate on **Implement Detected Lab a Corporate Industry**
 
-- 🤝 I’m looking for help with [Blue Teaming detected lab as a company using with open-source Technology](https://docs.google.com/document/d/1ybTtLETJxVhPG_a1zPYB8JPg0ygBbdPQKzhIZu9eeQk/edit?usp=sharing)
+- 🤝 I’m looking for help with [Blue Teaming detected lab as a company using open-source Technology](https://docs.google.com/document/d/1ybTtLETJxVhPG_a1zPYB8JPg0ygBbdPQKzhIZu9eeQk/edit?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://cspboniyeamin.blogspot.com/](https://cspboniyeamin.blogspot.com/)
 
 - 📝 I regularly write articles on [https://boniyeamincse.blogspot.com/](https://boniyeamincse.blogspot.com/)
 
-- 💬 Ask me about **SOC tools Wazuh , Security Onion ,Splunk,IBM qradar ,and cyber security Domains**
+- 💬 Ask me about **SOC tools Wazuh, Security Onion, Splunk, IBM radar,and cyber security Domains**
 
 - 📫 How to reach me **boniyeamin.cse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17EvuvJRBEOgZcSlXoMiGJdzIRb7tQBKj/view?usp=share_link](https://drive.google.com/file/d/17EvuvJRBEOgZcSlXoMiGJdzIRb7tQBKj/view?usp=share_link)
 
-- ⚡ As a person, I consider myself a positive person, a cross-functional team member, detail-oriented and a Quick learner in my professional life. **I feel very comfortable adapting to new environments. I’m looking for a new challenge and taking my career to the next level, That's pretty much about me.**
+- ⚡ As a person, I consider myself a positive person, a cross-functional team member, detail-oriented, and a Quick learner in my professional life. **I feel very comfortable adapting to new environments. I’m looking for a new challenge and taking my career to the next level, That's pretty much about me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@
 <a href="https://kaggle.com/boniyeamincse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="boniyeamincse" height="30" width="40" /></a>
 <a href="https://fb.com/boniyeaminlaju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boniyeaminlaju" height="30" width="40" /></a>
 <a href="https://instagram.com/boniyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boniyeamin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/boni yeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boni yeamin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@boniyeaminbangla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="boni yeamin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
