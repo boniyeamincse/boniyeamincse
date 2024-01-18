@@ -31,9 +31,9 @@
 
 - ⚡ As a person, I consider myself a positive person, a cross-functional team member, detail-oriented, and a Quick learner in my professional life. **I feel very comfortable adapting to new environments. I’m looking for a new challenge and taking my career to the next level, That's pretty much about me.**
 
-  ### Experience
+ ## Experience
 
-## Officer (Cyber Security), IT Department
+### Officer (Cyber Security), IT Department
 **Akij Group** · *Full-time*  
 *March 2023 - Present*  
 *Dhaka, Bangladesh* · *On-site*
