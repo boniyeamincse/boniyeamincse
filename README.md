@@ -31,6 +31,39 @@
 
 - ⚡ As a person, I consider myself a positive person, a cross-functional team member, detail-oriented, and a Quick learner in my professional life. **I feel very comfortable adapting to new environments. I’m looking for a new challenge and taking my career to the next level, That's pretty much about me.**
 
+  ### Experience
+
+## Officer (Cyber Security), IT Department
+**Akij Group** · *Full-time*  
+*March 2023 - Present*  
+*Dhaka, Bangladesh* · *On-site*
+
+As an Information Technology Officer (Cyber Security) at Akij Group, I hold a critical role in safeguarding the organization's network and systems from potential security threats. My responsibilities encompass monitoring, analyzing, and promptly responding to security events and incidents. By identifying and mitigating risks in real-time, I ensure that the organization's security posture remains at a high level. Here are the major tasks, duties, and key responsibilities I undertake in this role:
+
+- 🔏 **SIEM Solutions Expertise:** Proficient in building, developing, updating, and upgrading SIEM clusters to enhance the organization's security capabilities. Skilled in utilizing SIEM tools for real-time threat monitoring and incident response.
+
+- 🔏 **Fortianlyzer SOC Analyst:** As a Fortianlyzer SOC Analyst, I play a crucial role in detecting and responding to security incidents. Leveraging cutting-edge tools such as Wazuh, Security Onion, and Guacamole, I proactively identify potential threats. My responsibilities include real-time monitoring, incident analysis, threat intelligence, and collaborating with cross-functional teams to bolster overall security.
+
+- 🔏 **Red Team Specialist:** In my role as a Red Team Specialist, I focus on simulating real-world attacks to uncover vulnerabilities and weaknesses in systems and networks. I conduct VAPT, Web Pentests, and Network Pentest. By using advanced tools and techniques, I identify security gaps and provide actionable recommendations for remediation.
+
+- 🔏 **Reporting and Analysis:** My role demands a high level of technical proficiency, continuous learning, and the ability to adapt to emerging cybersecurity challenges. By staying at the forefront of cybersecurity practices, I am dedicated to ensuring the confidentiality, integrity, and availability of the organization's critical assets, thereby contributing to a secure and resilient digital environment.
+
+## Skills
+- DevOps
+- Fortinet
+- IBM QRadar
+- CyberSecurity Assessment
+- SOC Analyst
+- Critical Thinking
+- Information Security
+- Splunk Enterprise
+- Security Operations Center
+- Malware Analysis
+- Security Onion
+- Security Information and Event Management (SIEM)
+- Wazuh
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="dev.to/boniyeamincse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/boniyeamincse" height="30" width="40" /></a>
