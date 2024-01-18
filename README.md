@@ -115,7 +115,18 @@ In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining th
 7. 🏅 **Creating a World Class Security Operations Center (SOC) (Cybery Limited)**
 8. 🏅 **Splunk 7.x Fundamentals Part 1 (Splunk)**
 9. 🏅 **Elastic Stack (Great Learning)**
+
 ## Projects
+1. 👩🏻‍💻 **Building a Cybersecurity SOC Lab Environment at Akij Group**
+2. 👩🏻‍💻 **Implementing Apache Guacamole Server in Industrial Environment at Akij Group**
+3. 👩🏻‍💻 **Building A Secure Networking System for Company (CARE)**
+4. 👩🏻‍💻 **Implementation of Server Virtualization Endorsement of a user-level service and Bandwidth Management Application in an Active Directory (CARE)**
+5. 👩🏻‍💻 **SIEM, IDS, DLP Development for Industrial Control Networks**
+6. 👩🏻‍💻 **Implement Security Onion - Open Linux Distribution for Threat Hunting, Enterprise Security Monitoring, And Log Management**
+7. 👩🏻‍💻 **Implementation of Open Source SOC using ELK stack, TheHive**
+8. 👩🏻‍💻 **Build Your Own Security Operations Center (SOC) using The HiveCortex, MISP**
+9. 👩🏻‍💻 **Implement Wazuh SOC for Industrial Environment**
+
 ## Volunteering
 ## Licenses & certifications
 ## Licenses & certifications
