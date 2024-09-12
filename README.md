@@ -128,8 +128,7 @@ In summary, as a Junior SOC Analyst, you played a pivotal role in maintaining th
 9. 👩🏻‍💻 **Implement Wazuh SOC for Industrial Environment**
 
 ## Volunteering
-## Licenses & certifications
-## Licenses & certifications
+
 ## Skills
 - DevOps
 - Fortinet
