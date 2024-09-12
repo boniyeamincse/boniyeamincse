@@ -34,7 +34,7 @@
 
  ## Experience
 
-# 🏢Officer (Cyber Security), IT Department
+# 🏢 Cybersecurity Enginee, IT Department
 **Akij Group** · *Full-time*  
 *March 2023 - Present*  
 *Dhaka, Bangladesh* · *On-site*
