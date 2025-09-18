@@ -1,5 +1,10 @@
 <!-- ====== Professional Resume-Style GitHub Profile (DevSecOps Focus) ====== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Boni%20Yeamin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="banner"/>
+</p>
+
+# 🏷️ Name  
 <h1 align="center">Boni Yeamin</h1>
 <h3 align="center">Cybersecurity Engineer → Future DevSecOps Engineer</h3>
 <p align="center">
@@ -7,149 +12,141 @@
 </p>
 
 <p align="center">
-  <a href="mailto:boniyeamin.cse@gmail.com"><img src="https://img.shields.io/badge/Email-boniyeamin.cse%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-boniyeamin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Twitter-@boniyeamin-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://cspboniyeamin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Projects-009688?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://boniyeamincse.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-boniyeamincse.blog-00B8D9?style=flat&logo=blogger&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=boniyeamincse&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="mailto:boniyeamin.cse@gmail.com"><img src="https://img.shields.io/badge/Email-boniyeamin.cse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-boniyeamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Twitter-@boniyeamin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://cspboniyeamin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://boniyeamincse.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-00B8D9?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🔒 Currently: **Cybersecurity Engineer @ Akij Group**  
-- 🚀 Career Goal: **DevSecOps Engineer** (bridging Security + DevOps)  
-- 📚 Learning: **Splunk ES, IBM QRadar, LogRhythm, Kubernetes Security, Terraform, Ansible**  
-- 💡 Passionate about **SOC Automation, Threat Hunting, and Secure CI/CD Pipelines**  
-- 📄 Resume: [Google Drive](https://drive.google.com/file/d/17EvuvJRBEOgZcSlXoMiGJdzIRb7tQBKj/view?usp=share_link)  
+🔒 **Current Role:** Cybersecurity Engineer @ Akij Group  
+🚀 **Goal:** Become a DevSecOps Engineer (bridging **Security + DevOps**)  
+📚 **Learning:** Splunk ES, QRadar, LogRhythm, Terraform, Kubernetes Security  
+⚡ **Passion:** Threat Hunting • SOC Automation • Secure CI/CD Pipelines  
+
+---
+
+## 🌟 Highlights / Key Achievements
+✅ Built & deployed **enterprise SOC lab** (Wazuh + Elastic + Security Onion)  
+✅ Conducted **red-team pentests** improving detection coverage  
+✅ Automated **incident workflows** with TheHive & Cortex  
+✅ Designed **secure remote ops (Apache Guacamole)** for industry use  
+✅ Transitioning to **DevSecOps**: secure CI/CD pipelines & IaC  
 
 ---
 
 ## 🛠️ Core Competencies
+### 🔒 Cybersecurity
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh%20|%20Splunk%20|%20QRadar-blue?style=flat-square)  
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-IR%20|%20Forensics-orange?style=flat-square)  
+![Pentesting](https://img.shields.io/badge/Pentesting-VAPT%20|%20Web%20|%20Network-red?style=flat-square)  
 
-**Cybersecurity (Current)**
-- **SIEM & SOC:** Wazuh, Elastic, Splunk, QRadar • Rule tuning • Dashboards • Playbooks  
-- **Threat Hunting & IR:** Hypothesis-driven hunts • Incident analysis • Forensics  
-- **Network & Endpoint:** Security Onion • FortiAnalyzer • Suricata/Zeek • IDS/IPS  
-- **Assessment:** VAPT (Web & Network) • Pentest reports • Red Team exercises  
-
-**DevOps / DevSecOps (Path)**
-- **CI/CD Security:** GitHub Actions, Jenkins • SAST, DAST, Secrets scanning, IaC scans  
-- **Containers & Orchestration:** Docker • Kubernetes (foundations) • Image hardening  
-- **IaC & Config:** Terraform • Ansible • Puppet • Policy-as-code (OPA/Rego basics)  
-- **Cloud Security:** AWS • Azure • GCP • IAM guardrails & logging  
-- **Observability:** Prometheus • Grafana • Elastic Stack  
-
-**Automation & Scripting**
-- **Bash**, **Python**, **PowerShell** • SOAR integrations • API enrichment  
+### ⚙️ DevSecOps
+![CI/CD](https://img.shields.io/badge/CI/CD-Jenkins%20|%20GitHub%20Actions-yellow?style=flat-square)  
+![Containers](https://img.shields.io/badge/Containers-Docker%20|%20Kubernetes-blue?style=flat-square)  
+![IaC](https://img.shields.io/badge/IaC-Terraform%20|%20Ansible-green?style=flat-square)  
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20|%20Azure%20|%20GCP-purple?style=flat-square)  
 
 ---
 
 ## 💼 Professional Experience
-
 ### 🏢 Cybersecurity Engineer — Akij Group  
-*Mar 2023 – Present · Dhaka, Bangladesh (On-site)*
-- Built and upgraded **SIEM pipelines**; authored correlation rules reducing false positives.  
-- Conducted **red-team style** VAPT and penetration testing for systems and networks.  
-- Monitored & responded to incidents via **FortiAnalyzer, Wazuh, Security Onion**.  
-- Authored **reports, playbooks, and executive briefings** to strengthen organizational security.
+*Mar 2023 – Present · Dhaka*  
+- Built **SIEM pipelines**, authored rules reducing false positives by 30%.  
+- Performed **red-team VAPT** validating defenses.  
+- Monitored & responded with **FortiAnalyzer, Wazuh, Security Onion**.  
+- Wrote **runbooks & executive reports** to improve SOC operations.  
 
----
+### 🏢 Cyber Security Analyst — CARE  
+*Jan 2022 – Feb 2023*  
+- Conducted **security audits, patching, firewall configs**.  
+- Updated **IR/DR plans**, authored incident reports.  
 
-### 🏢 Cyber Security Analyst — CARE (Cybersecurity Audit & Resilient Enterprise)  
-*Jan 2022 – Feb 2023*
-- Monitored networks, installed/updated firewalls, and patched vulnerabilities.  
-- Conducted **risk assessments**, security audits, and vendor security verifications.  
-- Maintained & improved **incident response and disaster recovery plans**.  
-- Authored **incident reports & team management documentation**.
-
----
-
-### 🏫 Part-Time Lecturer — University of Global Village  
-*Apr 2022 – Dec 2022*
-- Delivered lectures on **Ethical Hacking and Cybersecurity**.  
-- Designed **labs, assessments, and grading** for practical cyber exercises.  
-
----
+### 🏫 Lecturer — University of Global Village  
+*Apr 2022 – Dec 2022*  
+- Delivered **Ethical Hacking & Cybersecurity** lectures & labs.  
 
 ### 🏢 Junior SOC Analyst — EaglesIdea Ltd  
-*Jun 2021 – May 2022*
-- Built an **open-source SOC (Wazuh)** and investigated SIEM alerts.  
-- Documented vulnerabilities, prioritized incidents, and improved detection rules.
+*Jun 2021 – May 2022*  
+- Deployed **open-source SOC (Wazuh)**, triaged SIEM alerts, and RCA reports.  
 
 ---
 
-## 🚀 Selected Projects
-- **SOC Lab @ Akij Group** — Wazuh + Elastic with SIEM use cases, hunt playbooks, IR workflows.  
-- **Secure Remote Ops (Apache Guacamole)** — Hardened secure access for industrial operations.  
-- **Open-Source SOC (ELK + TheHive/Cortex/MISP)** — Case management, enrichment & threat intel.  
-- **ICS/OT Industrial Detections** — IDS/DLP prototypes for industrial environments.  
-- **DevSecOps Pipeline Blueprint** — CI/CD with SAST, DAST, SBOMs, IaC scanning, and policy gates.
-
-📌 More details: [Project Portfolio](https://cspboniyeamin.blogspot.com/)
+## 🧑‍💡 Skills
+- **Cybersecurity:** SOC Ops • Threat Hunting • IR • VAPT • SIEM Engineering  
+- **DevSecOps:** Secure CI/CD • Cloud Security • IaC • Container Security  
+- **Scripting:** Bash • Python • PowerShell  
+- **Collaboration:** Documentation • Reporting • Team Enablement  
 
 ---
 
 ## 🎓 Education
-**City University (BD)**  
-- BSc in Computer Science and Engineering · *2017 – 2022*
+🎓 **City University (BD)**  
+- BSc in Computer Science & Engineering (2017 – 2022)  
+
+---
+
+## 🚀 Projects
+🔹 **SOC Lab @ Akij Group** — Wazuh + Elastic with use cases & playbooks  
+🔹 **Secure Remote Ops (Guacamole)** — Hardened remote access  
+🔹 **Open-Source SOC (ELK + TheHive/Cortex/MISP)** — Case mgmt + intel sharing  
+🔹 **ICS/OT Detections** — IDS/DLP for industrial environments  
+🔹 **DevSecOps Pipeline** — CI/CD with SAST, DAST, SBOMs, IaC scanning  
 
 ---
 
 ## 🏅 Certifications
-1. Fundamentals of Red Hat Enterprise Linux (Red Hat)  
-2. Docker for Absolute Beginners (KodeKloud)  
-3. Incident Response: Detection & Analysis (Pluralsight)  
-4. Splunk — Zero to Hero (Udemy)  
-5. Windows Server Administration (BASIS)  
-6. Practical Ethical Hacking (TCM Security)  
-7. World-Class SOC (Cybery Limited)  
-8. Splunk 7.x Fundamentals Part 1 (Splunk)  
-9. Elastic Stack (Great Learning)  
+- 🏅 Red Hat Enterprise Linux — Fundamentals  
+- 🏅 Docker for Beginners (KodeKloud)  
+- 🏅 Splunk 7.x Fundamentals • Splunk Zero to Hero  
+- 🏅 Incident Response: Detection & Analysis  
+- 🏅 Practical Ethical Hacking (TCM Security)  
+- 🏅 Elastic Stack (Great Learning)  
+- 🏅 World-Class SOC (Cybery Limited)  
+- 🏅 Windows Server Administration (BASIS)  
 
 ---
 
-## 🧰 Tools & Technologies
-Linux • Windows Server • **Wazuh** • **Elastic** • **Splunk** • **QRadar** • Security Onion • FortiAnalyzer •  
-Docker • Kubernetes • Git • **Terraform** • **Ansible** • Jenkins • Prometheus • Grafana • TheHive • Cortex • MISP • Bash • Python • PowerShell  
+## ⚙️ Tools & Technologies
+![Linux](https://img.shields.io/badge/Linux-OS-yellow?style=for-the-badge&logo=linux)  
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)  
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)  
+![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=for-the-badge&logo=ansible)  
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus)  
+![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=for-the-badge&logo=grafana)  
+![TheHive](https://img.shields.io/badge/TheHive-Case%20Mgmt-FFB000?style=for-the-badge)  
+![MISP](https://img.shields.io/badge/MISP-Threat%20Intel-E3000B?style=for-the-badge)  
 
 ---
 
-## 🌍 Languages
-- **English** — Full professional proficiency  
-- **Bangla** — Native proficiency  
-
----
-
-## 📈 GitHub Highlights
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse&theme=flat&margin-w=10&row=1" alt="trophies" />
-  </a>
+## 📊 GitHub Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse&theme=flat&margin-w=10&row=1" alt="trophies" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boniyeamincse&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boniyeamincse&show_icons=true&theme=transparent" />
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=boniyeamincse&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boniyeamincse" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boniyeamincse&theme=transparent" />
 </p>
 
 ---
 
 ## 📬 Connect
-<p>
-  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-boniyeamin-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Twitter-@boniyeamin-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://kaggle.com/boniyeamincse" target="_blank"><img src="https://img.shields.io/badge/Kaggle-boniyeamincse-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="https://fb.com/boniyeaminlaju" target="_blank"><img src="https://img.shields.io/badge/Facebook-boniyeaminlaju-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Instagram-@boniyeamin-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@boniyeaminbangla" target="_blank"><img src="https://img.shields.io/badge/YouTube-Boni%20Yeamin-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-boniyeamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Twitter-@boniyeamin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:boniyeamin.cse@gmail.com"><img src="https://img.shields.io/badge/Email-boniyeamin.cse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <sub>Open to collaboration in SOC Automation, DevSecOps pipelines, and Cloud Security projects.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
