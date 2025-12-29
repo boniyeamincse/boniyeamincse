@@ -3,7 +3,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Boni%20Yeamin&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="banner"/>
 </p>
-
+**Markdown Code:**
+```markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:240b36,100:c31432&height=180&section=header&text=Boni%20Yeamin&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=Securing%20the%20Pipeline&descFontSize=20&descAlign=50&descAlignY=70&animation=fadeIn" alt="Cyber Banner"/>
+</p>
+```
 # 🏷️ Name  
 <h1 align="center">Boni Yeamin</h1>
 <h3 align="center">Cybersecurity Engineer → Future DevSecOps Engineer</h3>
