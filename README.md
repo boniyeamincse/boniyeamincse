@@ -1,112 +1,144 @@
-<!-- ====== Cybersecurity Hive: Boni Yeamin ====== -->
+<!-- ====== Boni Yeamin: Cybersecurity Hive Resume ====== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffd700&height=220&section=header&text=The%20Cybersecurity%20Hive&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Boni%20Yeamin%20%7C%20Securing%20the%20Digital%20Perimeter&descFontSize=18&descAlignY=65&animation=fadeIn" alt="Hive Banner"/>
-</p>
+<div align="center">
+  <!-- 3D Cylinder Banner with Cyber Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Boni%20Yeamin&fontSize=50&fontColor=00f2ff&animation=fadeIn&fontAlignY=38&desc=Architecting%20Secure%20Digital%20Infrastructures&descFontSize=20&descAlignY=60&descAlign=50" alt="Cyber Banner"/>
+  
+  <!-- Typing Animation for Roles -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;DevSecOps+Enthusiast;Threat+Hunter;SOC+Automation+Architect" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <a href="mailto:boniyeamin.cse@gmail.com"><img src="https://img.shields.io/badge/Email-boniyeamin.cse%40gmail.com-FEC107?style=flat-square&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-boniyeamin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Twitter-@boniyeamin-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://cspboniyeamin.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-009688?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://boniyeamincse.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-Read%20Articles-FF5722?style=flat-square&logo=blogger&logoColor=white" /></a>
-</p>
-
----
-
-## 🐝 About the Hive
-> **"Defense in depth, structured like a hive."**
-
-🛡️ **Current Role:** Cybersecurity Engineer @ Akij Group  
-🚀 **Mission:** Transitioning to **DevSecOps** to build self-healing, secure infrastructures.  
-⚡ **Core Focus:**  Threat Intelligence • Automated Defense • Secure CI/CD  
-📍 **Location:** Dhaka, Bangladesh
-
----
-
-## 💠 Hive Architecture (Tech Stack)
-
-### 🛡️ Defensive Cell (Cybersecurity)
-<p>
-  <img src="https://img.shields.io/badge/SIEM-Wazuh%20%7C%20Splunk%20%7C%20QRadar-000000?style=flat-square&logo=splunk&logoColor=FEC107" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-TheHive%20%7C%20Cortex%20%7C%20MISP-000000?style=flat-square&logo=crowdstrike&logoColor=FEC107" />
-  <img src="https://img.shields.io/badge/Forensics-Autopsy%20%7C%20FTK-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Network-Wireshark%20%7C%20Suricata-000000?style=flat-square&logo=wireshark&logoColor=FEC107" />
-</p>
-
-### ⚙️ Automation Cell (DevSecOps)
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-Jenkins%20%7C%20GitHub%20Actions-000000?style=flat-square&logo=github-actions&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Container-Docker%20%7C%20K8s-000000?style=flat-square&logo=kubernetes&logoColor=blue" />
-  <img src="https://img.shields.io/badge/IaC-Terraform%20%7C%20Ansible-000000?style=flat-square&logo=terraform&logoColor=purple" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-000000?style=flat-square&logo=microsoft-azure&logoColor=blue" />
-</p>
-
-### 🔧 Tooling Cell (Languages & Os)
-<p>
-  <img src="https://img.shields.io/badge/OS-Linux%20(RHEL%2FKali)-000000?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scripting-Python%20%7C%20Bash%20%7C%20Go-000000?style=flat-square&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Shell-PowerShell-000000?style=flat-square&logo=powershell&logoColor=blue" />
-</p>
+<div align="center">
+  <!-- 3D Style 'For-The-Badge' Contact Buttons -->
+  <a href="mailto:boniyeamin.cse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-boniyeamin.cse%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/boniyeamin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://cspboniyeamin.blogspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-009688?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
-## 🏆 Queen Cells (Highlights)
-| 🛡️ SOC & SIEM | ⚔️ Red Teaming | 🏗️ Architecture |
-| :--- | :--- | :--- |
-| Built comprehensive **SOC Lab** with Wazuh, Elastic & Security Onion. | Conducted **VAPT** & Red Team exercises to validate defenses. | Designed **Secure Remote Ops** using hardened Apache Guacamole. |
-| **30% Reduction** in false positives via custom rule engineering. | **Incident Response** Automation using TheHive & Cortex. | Implementing **DevSecOps** pipelines with SAST/DAST integration. |
+### � **Mission Objective**
+> To bridge the gap between **Offensive Security** and **DevOps**, building self-healing, secure-by-design infrastructures that withstand modern cyber threats.
 
 ---
 
-## 📜 Honeycomb Archive (Experience)
+## 🌟 **highlights.log**
+| 🛡️ **SOC Transformation** | ⚔️ **Offensive Ops** | 🏗️ **DevSecOps** |
+|:---:|:---:|:---:|
+| Built Enterprise SOC Lab<br>*(Wazuh + Elastic + Security Onion)* | Red Team Assessments<br>*(Validated defensive coverage)* | Secure CI/CD Pipelines<br>*(SAST/DAST/SCA Integration)* |
+| **30% Noise Reduction**<br>*(Custom Rule Optimization)* | Incident Automation<br>*(TheHive + Cortex + MISP)* | Infrastructure as Code<br>*(Terraform + Ansible)* |
 
-### 🟡 Cybersecurity Engineer @ Akij Group
-*March 2023 – Present*
-*   Architected enterprise SIEM pipelines.
-*   Managed threat response with FortiAnalyzer & Wazuh.
-*   Orchestrated Red Team operations.
+---
 
-### 🟡 Cyber Security Analyst @ CARE
+## �️ **Tech Stack (The Hive)**
+
+### 🛡️ **Defensive Arsenal (Blue Team)**
+<div align="left">
+  <img src="https://img.shields.io/badge/SIEM-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=blue" /> 
+  <img src="https://img.shields.io/badge/Analytics-Splunk_ES-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intel-MISP-000000?style=for-the-badge&logo=target&logoColor=red" />
+  <img src="https://img.shields.io/badge/Response-TheHive-FEC107?style=for-the-badge&logo=bumble&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=blue" />
+</div>
+
+### ⚔️ **Offensive & Validation (Red Team)**
+<div align="left">
+  <img src="https://img.shields.io/badge/OS-Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scan-Nmap-000000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Framework-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+</div>
+
+### ⚙️ **DevSecOps & Cloud**
+<div align="left">
+  <img src="https://img.shields.io/badge/Container-Docker-000000?style=for-the-badge&logo=docker&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Orchestra-Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue" />
+  <img src="https://img.shields.io/badge/IaC-Terraform-000000?style=for-the-badge&logo=terraform&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+---
+
+## 💼 **Professional Experience**
+
+### 🏢 **Cybersecurity Engineer** @ [Akij Group](https://www.akij.net/)
+*Mar 2023 – Present · Dhaka, Bangladesh*
+*   **SOC Architecture:** Designed and deployed a multi-node **Elastic Stack (ELK)** & **Wazuh** SIEM, handling TBs of log data daily.
+*   **Threat Detection:** Authored custom correlation rules reducing false positives by **30%**, streamlining analyst workload.
+*   **Red Teaming:** Conducted internal VAPT exercises to validate SIEM alerts and firewall rules.
+*   **Automation:** Integrated **FortiAnalyzer** logs with SOAR playbooks for automated blocking of malicious IPs.
+
+### 🏢 **Cyber Security Analyst** @ [CARE](https://www.care.org/)
 *Jan 2022 – Feb 2023*
-*   Lead security audits and firewall hardening.
-*   Disaster Recovery (DR) planning and execution.
+*   **Hardening:** Led server hardening initiatives (CIS Benchmarks) for critical Linux infrastructure.
+*   **Compliance:** Conducted periodic security audits and patch management cycles.
+*   **Response:** Updated Incident Response (IR) and Disaster Recovery (DR) plans.
 
-### 🟡 Junior SOC Analyst @ EaglesIdea Ltd
+### 🏫 **Lecturer (Cybersecurity)** @ University of Global Village
+*Apr 2022 – Dec 2022*
+*   Mentored students in **Ethical Hacking** and **Secure Networking** fundamentals.
+
+### 🏢 **Junior SOC Analyst** @ EaglesIdea Ltd
 *Jun 2021 – May 2022*
-*   First-line defense, alert triage, and RCA reporting.
-*   Deployed open-source SOC solutions.
+*   **L1/L2 Operations:** Triaged real-time alerts using open-source SOC tools (Wazuh, Suricata).
+*   **Reporting:** Generated Root Cause Analysis (RCA) reports for security incidents.
 
 ---
 
-## 🍯 Nectar (Projects)
--   🛡️ **SOC Lab @ Akij** (Wazuh + Elastic + TheHive)
--   🔒 **Guacamole Bastion Host** (Hardened Remote Access)
--   ⚙️ **DevSecOps Pipeline** (Jenkins + SonarQube + Trivy)
--   🏭 **ICS/OT Security Monitoring** (Industrial Defense)
+## 🚀 **Featured Projects**
+
+### 🛡️ **Enterprise SOC Lab (The Hive)**
+*   **Stack:** Wazuh, Elasticsearch, TheHive, Cortex.
+*   **Impact:** Centralized logging and incident creation, enabling a 15-minute mean time to detect (MTTD).
+
+### 🔒 **Secure Remote Access Gateway**
+*   **Stack:** Apache Guacamole, MFA (Duo), Nginx Reverse Proxy.
+*   **Outcome:** Eliminated direct RDP/SSH exposure, securing remote workforce access.
+
+### ⚙️ **DevSecOps Pipeline Prototype**
+*   **Stack:** Jenkins, SonarQube (SAST), Trivy (Container Scan), OWASP ZAP (DAST).
+*   **Outcome:** Automated security checks in the build process, failing builds on critical vulnerabilities.
 
 ---
 
-## 🥇 Royal Jelly (Certifications)
-*   🏅 **Red Hat Certified** (Linux Fundamentals)
-*   🏅 **Splunk** (Fundamentals & Admin)
-*   🏅 **TCM Security** (Practical Ethical Hacking)
-*   🏅 **Docker & Kubernetes** (KodeKloud)
+## 🎓 **Education & Certifications**
+
+**BSc in Computer Science & Engineering** • *City University (BD) (2017 – 2022)*
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Cert-Red_Hat_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cert-Splunk_Admin-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cert-Practical_Ethical_Hacking-000000?style=flat-square&logo=hackthebox&logoColor=green" />
+  <img src="https://img.shields.io/badge/Cert-Docker_Fundamentals-000000?style=flat-square&logo=docker&logoColor=blue" />
+</div>
 
 ---
 
-## 📊 Hive Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boniyeamincse&show_icons=true&theme=gotham&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=boniyeamincse&theme=gotham&hide_border=true" alt="Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse&theme=flat&margin-w=10&row=1&no-bg=true" alt="Trophies" />
-</p>
+## 📊 **GitHub Analytics (3D)**
 
----
+<div align="center">
+  <!-- 3D Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse&theme=darkhub&margin-w=15&row=1&no-br=true" alt="trophies" />
+  <br><br>
+  <!-- Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=boniyeamincse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boniyeamincse&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0f0c29" />
+</div>
 
-<p align="center">
-  <a href="mailto:boniyeamin.cse@gmail.com"><img src="https://img.shields.io/badge/Connect-Send%20Email-FEC107?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
+</div>
