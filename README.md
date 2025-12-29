@@ -114,8 +114,16 @@
 ---
 
 ## 🎓 **Education & Certifications**
-
 **BSc in Computer Science & Engineering** • *City University (BD) (2017 – 2022)*
+## 🏅 Certifications
+- 🏅 Red Hat Enterprise Linux — Fundamentals  
+- 🏅 Docker for Beginners (KodeKloud)  
+- 🏅 Splunk 7.x Fundamentals • Splunk Zero to Hero  
+- 🏅 Incident Response: Detection & Analysis  
+- 🏅 Practical Ethical Hacking (TCM Security)  
+- 🏅 Elastic Stack (Great Learning)  
+- 🏅 World-Class SOC (Cybery Limited)  
+- 🏅 Windows Server Administration (BASIS)  
 
 <div align="left">
   <img src="https://img.shields.io/badge/Cert-Red_Hat_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white" />
@@ -126,19 +134,32 @@
 
 ---
 
-## 📊 **GitHub Analytics (3D)**
 
-<div align="center">
-  <!-- 3D Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse&theme=darkhub&margin-w=15&row=1&no-br=true" alt="trophies" />
-  <br><br>
-  <!-- Stats & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=boniyeamincse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=boniyeamincse&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0f0c29" />
-</div>
+## 📊 GitHub Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boniyeamincse&theme=flat&margin-w=10&row=1" alt="trophies" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boniyeamincse&show_icons=true&theme=transparent" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boniyeamincse&theme=transparent" />
+</p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
-</div>
+## 📬 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/boniyeamin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-boniyeamin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/boniyeamin" target="_blank"><img src="https://img.shields.io/badge/Twitter-@boniyeamin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:boniyeamin.cse@gmail.com"><img src="https://img.shields.io/badge/Email-boniyeamin.cse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <sub>Open to collaboration in SOC Automation, DevSecOps pipelines, and Cloud Security projects.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
+
